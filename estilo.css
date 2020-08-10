@@ -1,0 +1,43 @@
+ *{
+    background-color: #ebccda;
+    box-sizing: border-box; 
+  }
+
+#box{
+    background-color: #D2FBA4;
+    padding:20px;
+   
+}
+.titulo{
+	background-color:#9c5fff;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 2px black; 
+
+}
+.info{
+	background-color:#9c5fff;	
+        position: relative;
+        width: 70%;
+		margin:50px auto;
+		padding:50px;
+		box-sizing:border-box;
+		border:solid 2px black; 
+		font-family: "trebuchet MS", verdana, arial, Helvetica, sans-serif;
+}
+#sele{
+	background:#a80041;
+	margin: 1rem;
+	padding: 1rem;
+	text-align: center;
+    color:#f44c8d;
+	font-family: "trebuchet MS", verdana, arial, Helvetica, sans-serif;
+    font-size: 2rem;
+}
+
+
+
+
